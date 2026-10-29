@@ -74,10 +74,10 @@ Embedding (300-dim)
 
 | Model | Test Accuracy |
 |---|---|
-| Simple RNN | XX% |
-| LSTM | XX% |
-| GRU | XX% |
-| **Bidirectional GRU (final)** | **XX%** |
+| Simple RNN | 26.4% |
+| LSTM | 33.9% |
+| GRU | 28.9% |
+| **Bidirectional GRU (final)** | **92.1%** |
 
 > 📝 Replace `XX` with the numbers from your notebook output.
 
@@ -197,6 +197,5 @@ curl -X POST "http://127.0.0.1:8000/predict" \
 
 **Dheeraj**
 - GitHub: [@dheeraj1306](https://github.com/dheeraj1306)
-- LinkedIn: _add your link here_
 
 ⭐ If you found this project useful, consider giving it a star!
