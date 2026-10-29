@@ -79,7 +79,6 @@ Embedding (300-dim)
 | GRU | 28.9% |
 | **Bidirectional GRU (final)** | **92.1%** |
 
-> 📝 Replace `XX` with the numbers from your notebook output.
 
 ---
 
